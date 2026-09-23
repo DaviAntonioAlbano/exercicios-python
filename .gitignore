@@ -1,0 +1,14 @@
+# Ignora configurações pessoais do VS Code.
+.vscode/
+
+# Ignora o cache de código Python compilado.
+__pycache__/
+
+#  Ignora arquivos binários executáveis gerados pelo Python (.pyc, .pyo, .pyd).
+*.py[cod]
+
+# Ignora a pasta oculta do ambiente virtual Python e suas bibliotecas instaladas.
+.venv/
+
+# Ignora a pasta padrão do ambiente virtual Python.
+venv/
